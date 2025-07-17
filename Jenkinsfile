@@ -2,7 +2,7 @@ pipeline {
 	agent any
 
 	environment {
-		NAME=Orven
+		NAME="Orven"
 	}
 
 	stages {
